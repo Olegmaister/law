@@ -1,0 +1,3 @@
+[submodule "vendor/diembzz/yii2custom"]
+	path = vendor/diembzz/yii2custom
+	url = ssh://diembzz@bitbucket.org/diembzz/yii2custom.git
